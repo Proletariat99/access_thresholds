@@ -3,8 +3,6 @@ import matplotlib.pyplot as plt
 from numpy import random
 from datetime import datetime
 
-
-# ACA66679
 plt.close()
 names = ['clark', 'gordon', 'bruce', 'peter', 'jean','aurora']
 appnames = ['PCCS', 'RTC Recon', 'RMS', 'Debit Match', 'Insight']
